@@ -1,0 +1,14 @@
+{
+  "name": "appiumapidemos",
+  "version": "1.0.0",
+  "description": "Demo project for Appium demo APIs apk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webdriverio": "^8.22.1"
+  }
+}
